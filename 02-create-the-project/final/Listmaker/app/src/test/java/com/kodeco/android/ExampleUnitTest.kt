@@ -1,4 +1,4 @@
-package com.raywenderlich.listmaker
+package com.kodeco.android
 
 import org.junit.Test
 
