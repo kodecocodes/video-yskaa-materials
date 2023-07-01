@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListMaker</string>
+    <string name="cd_back_icon">Back icon</string>
+    <string name="cd_add_icon">Add a new task icon</string>
+    <string name="label_create">Create</string>
+    <string name="label_list_maker">List Maker</string>
+    <string name="name_of_list">What is the name of your list?</string>
+    <string name="task_hint">Enter name</string>
+</resources>
